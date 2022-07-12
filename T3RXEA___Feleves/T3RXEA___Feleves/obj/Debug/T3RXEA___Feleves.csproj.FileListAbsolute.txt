@@ -1,0 +1,8 @@
+C:\Users\Szabi\Desktop\sztf2\T3RXEA___Feleves\T3RXEA___Feleves\bin\Debug\T3RXEA___Feleves.exe.config
+C:\Users\Szabi\Desktop\sztf2\T3RXEA___Feleves\T3RXEA___Feleves\bin\Debug\T3RXEA___Feleves.exe
+C:\Users\Szabi\Desktop\sztf2\T3RXEA___Feleves\T3RXEA___Feleves\bin\Debug\T3RXEA___Feleves.pdb
+C:\Users\Szabi\Desktop\sztf2\T3RXEA___Feleves\T3RXEA___Feleves\obj\Debug\T3RXEA___Feleves.csproj.AssemblyReference.cache
+C:\Users\Szabi\Desktop\sztf2\T3RXEA___Feleves\T3RXEA___Feleves\obj\Debug\T3RXEA___Feleves.csproj.SuggestedBindingRedirects.cache
+C:\Users\Szabi\Desktop\sztf2\T3RXEA___Feleves\T3RXEA___Feleves\obj\Debug\T3RXEA___Feleves.csproj.CoreCompileInputs.cache
+C:\Users\Szabi\Desktop\sztf2\T3RXEA___Feleves\T3RXEA___Feleves\obj\Debug\T3RXEA___Feleves.exe
+C:\Users\Szabi\Desktop\sztf2\T3RXEA___Feleves\T3RXEA___Feleves\obj\Debug\T3RXEA___Feleves.pdb
